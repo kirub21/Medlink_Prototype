@@ -77,6 +77,7 @@ This project implements an unsupervised machine learning solution for healthcare
   2. Click “Predict Cluster” to see the result (e.g., “Predicted Cluster: 2 (Urgent)”).
 - **Output**: Predicted cluster displayed below the button.
 <img width="417" height="360" alt="image" src="https://github.com/user-attachments/assets/d2275483-a693-418c-85e5-3af3e4eb3dd5" />
+
 ## Results Example
 
 - **Optimal k**: 3 clusters (low/medium/high risk).
@@ -104,5 +105,5 @@ This project implements an unsupervised machine learning solution for healthcare
 - For rural focus, consider DHS datasets (https://dhsprogram.com/data/).
 - Validate clusters with healthcare experts.
 
-**Author**: kirubel Gulilat | Medlink\
+**Author**: kirubel Gulilat | [Medlink](https://www.medlinket.com/) 
 **Date**: October 17, 2025
