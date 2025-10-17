@@ -105,5 +105,5 @@ This project implements an unsupervised machine learning solution for healthcare
 - For rural focus, consider DHS datasets (https://dhsprogram.com/data/).
 - Validate clusters with healthcare experts.
 
-**Author**: kirubel Gulilat | [Medlink](https://www.medlinket.com/) 
+**Author**: kirubel Gulilat | [Medlink](https://www.medlinket.et/)  
 **Date**: October 17, 2025
