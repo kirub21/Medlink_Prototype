@@ -59,6 +59,9 @@ This project implements an unsupervised machine learning solution for healthcare
 - **Download Outputs**: Files are automatically downloaded via `files.download()`. Check your local Downloads folder.
 - **Interpretation**: Clusters represent risk levels (e.g., Cluster 0: Low-risk, Cluster 2: Urgent).
 
+
+<img width="800" height="500" alt="cluster_visualization" src="https://github.com/user-attachments/assets/43935a8d-5735-451b-8aa6-448fcd6ca81e" />
+
 ### 2. Decision Support (`decision_support.py`)
 
 - **Run**: Execute after `triage_clustering.py` in a new notebook, ensuring `.pkl` files are in `/content/`.
@@ -73,7 +76,7 @@ This project implements an unsupervised machine learning solution for healthcare
   1. Fill in patient details (e.g., Age: 45, Gender: Male, Admission Type: Emergency).
   2. Click “Predict Cluster” to see the result (e.g., “Predicted Cluster: 2 (Urgent)”).
 - **Output**: Predicted cluster displayed below the button.
-
+<img width="417" height="360" alt="image" src="https://github.com/user-attachments/assets/d2275483-a693-418c-85e5-3af3e4eb3dd5" />
 ## Results Example
 
 - **Optimal k**: 3 clusters (low/medium/high risk).
